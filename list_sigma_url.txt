@@ -1,0 +1,10 @@
+https://github.com/center-for-threat-informed-defense/cloud-analytics.git
+https://github.com/delivr-to/detections.git
+https://github.com/joesecurity/sigma-rules.git
+https://github.com/mbabinski/Sigma-Rules.git
+https://github.com/mdecrevoisier/SIGMA-detection-rules.git
+https://github.com/mthcht/ThreatHunting-Keywords-sigma-rules.git
+https://github.com/P4T12ICK/Sigma-Rule-Repository.git
+https://github.com/SigmaHQ/sigma.git
+https://github.com/The-DFIR-Report/Sigma-Rules.git
+https://github.com/tsale/Sigma_rules.git
